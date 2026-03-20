@@ -139,9 +139,12 @@ Azure Data Factory
 ```
 ZoanTyresPipeline/
 ├── README.md
-├── ISIT312_ProjectReport.pdf    # Full implementation: code, SQL, screenshots & analysis
-└── raw/
-    └── the CSV, JSON and PDF files
+├── ISIT312_ProjectReport.pdf         # Full implementation: code, SQL, screenshots & analysis
+├── dim_customers.csv
+├── dim_items.csv
+├── dim_suppliers.csv
+├── dim_warehouses.csv
+└── erp_exports.json
 ```
 
 The project was built and deployed entirely on Microsoft Azure. The complete PySpark notebook, T-SQL scripts, pipeline configurations, and Power BI dashboard screenshots are all documented in the project report above.
