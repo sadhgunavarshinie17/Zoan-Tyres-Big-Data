@@ -1,0 +1,5 @@
+warehouse_id,warehouse_name,location,city,warehouse_type,capacity_sqm,is_active
+WH001,Dubai Main,Al Quoz,Dubai,Main,2500,1
+WH002,Abu Dhabi Branch,Mussafah,Abu Dhabi,Branch,1500,1
+WH003,Sharjah Branch,Industrial Area 13,Sharjah,Branch,1000,1
+WH004,Transit Warehouse,Jebel Ali,Dubai,Transit,500,1

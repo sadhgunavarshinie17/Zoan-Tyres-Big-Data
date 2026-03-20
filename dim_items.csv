@@ -1,0 +1,101 @@
+item_id,item_code,item_name,item_group,brand,tire_size,load_rating,speed_rating,description,uom,standard_cost,standard_price,reorder_level,warranty_months
+ITEM0001,TIRE-0001,Wanli 195/65R15,PCR,Joyroad,205/55R16,91,H,Deserunt repellat voluptatum quas odio laborum ad.,Piece,343,1344,35,22
+ITEM0002,TIRE-0002,Joyroad 185/65R14,LTR,Joyroad,195/65R15,95,T,Placeat necessitatibus nam veritatis molestias vel.,Piece,581,376,45,10
+ITEM0003,TIRE-0003,Joyroad 185/65R14,TBR,Joyroad,195/65R15,95,H,Inventore quos unde.,Piece,300,726,95,16
+ITEM0004,TIRE-0004,Wanli 175/70R13,PCR,Joyroad,205/55R16,102,V,Molestias voluptates eveniet fuga rerum fuga blanditiis.,Piece,740,992,47,23
+ITEM0005,TIRE-0005,Wanli 175/70R13,LTR,Wanli,295/80R22.5,91,V,Doloribus suscipit culpa accusamus voluptatum ad consequuntur reprehenderit.,Piece,440,1443,93,18
+ITEM0006,TIRE-0006,Wanli 195/65R15,LTR,Wanli,185/65R14,95,V,Atque voluptatem vel vel impedit quidem.,Piece,323,598,20,13
+ITEM0007,TIRE-0007,Joyroad 295/80R22.5,TBR,Joyroad,205/55R16,91,V,Nostrum dignissimos nulla.,Piece,363,1349,97,10
+ITEM0008,TIRE-0008,Wanli 195/65R15,TBR,Joyroad,185/65R14,102,T,Repudiandae nostrum reiciendis eligendi officiis.,Piece,793,372,89,12
+ITEM0009,TIRE-0009,Joyroad 175/70R13,TBR,Wanli,205/55R16,102,T,Dolorum adipisci porro molestias autem.,Piece,355,344,60,15
+ITEM0010,TIRE-0010,Joyroad 195/65R15,PCR,Wanli,195/65R15,91,T,Numquam quo odio illo architecto.,Piece,132,1345,52,13
+ITEM0011,TIRE-0011,Joyroad 175/70R13,TBR,Joyroad,205/55R16,91,T,Similique excepturi ut iure ipsam perspiciatis iusto.,Piece,166,984,96,14
+ITEM0012,TIRE-0012,Wanli 195/65R15,TBR,Joyroad,205/55R16,91,H,Accusantium blanditiis perferendis dicta quod ab.,Piece,352,935,71,9
+ITEM0013,TIRE-0013,Wanli 195/65R15,TBR,Wanli,195/65R15,91,T,Accusamus quidem officia sint.,Piece,686,942,49,8
+ITEM0014,TIRE-0014,Joyroad 175/70R13,LTR,Joyroad,195/65R15,95,V,Rem aperiam necessitatibus provident.,Piece,275,680,25,17
+ITEM0015,TIRE-0015,Joyroad 175/70R13,TBR,Joyroad,295/80R22.5,91,T,Aperiam mollitia voluptatibus.,Piece,380,171,99,6
+ITEM0016,TIRE-0016,Joyroad 195/65R15,TBR,Wanli,185/65R14,102,H,Recusandae occaecati voluptates nulla.,Piece,176,1436,41,7
+ITEM0017,TIRE-0017,Wanli 295/80R22.5,PCR,Wanli,175/70R13,91,H,Omnis hic cumque praesentium.,Piece,271,535,88,10
+ITEM0018,TIRE-0018,Wanli 185/65R14,PCR,Joyroad,295/80R22.5,102,T,Iste laudantium placeat sunt iure.,Piece,725,222,48,10
+ITEM0019,TIRE-0019,Wanli 295/80R22.5,PCR,Joyroad,195/65R15,91,V,Quaerat officiis nisi optio aliquam beatae ut.,Piece,112,412,57,18
+ITEM0020,TIRE-0020,Wanli 205/55R16,TBR,Joyroad,185/65R14,91,V,Consequatur fuga hic explicabo amet suscipit nobis.,Piece,299,1068,42,9
+ITEM0021,TIRE-0021,Joyroad 195/65R15,PCR,Joyroad,195/65R15,95,T,Quis nihil sed id distinctio necessitatibus pariatur.,Piece,380,991,25,6
+ITEM0022,TIRE-0022,Wanli 295/80R22.5,PCR,Wanli,195/65R15,95,H,Repellat nam error necessitatibus dolorum provident veritatis.,Piece,496,1228,25,13
+ITEM0023,TIRE-0023,Joyroad 195/65R15,LTR,Wanli,295/80R22.5,102,V,Blanditiis maxime aspernatur nobis officiis.,Piece,133,1012,22,16
+ITEM0024,TIRE-0024,Wanli 205/55R16,LTR,Joyroad,185/65R14,95,V,Iure doloremque libero autem alias vel debitis.,Piece,210,1481,42,16
+ITEM0025,TIRE-0025,Joyroad 175/70R13,PCR,Wanli,185/65R14,95,V,Nisi magni placeat magni.,Piece,123,275,53,7
+ITEM0026,TIRE-0026,Wanli 295/80R22.5,PCR,Wanli,185/65R14,102,T,Voluptate sunt enim ullam nisi asperiores.,Piece,265,688,49,16
+ITEM0027,TIRE-0027,Joyroad 185/65R14,PCR,Joyroad,295/80R22.5,102,H,Suscipit debitis ab similique est maiores id ullam.,Piece,333,944,34,18
+ITEM0028,TIRE-0028,Wanli 205/55R16,LTR,Joyroad,205/55R16,91,H,Qui maiores officia est.,Piece,455,1498,64,20
+ITEM0029,TIRE-0029,Joyroad 295/80R22.5,TBR,Wanli,185/65R14,91,V,Expedita repellendus alias quisquam.,Piece,448,718,49,9
+ITEM0030,TIRE-0030,Joyroad 205/55R16,TBR,Joyroad,185/65R14,102,V,Optio nihil earum soluta consectetur tempore error.,Piece,720,188,58,23
+ITEM0031,TIRE-0031,Wanli 295/80R22.5,LTR,Joyroad,205/55R16,91,V,Optio magni debitis.,Piece,495,942,64,24
+ITEM0032,TIRE-0032,Joyroad 175/70R13,PCR,Wanli,185/65R14,91,H,Maxime doloribus consequuntur vel consequuntur quia.,Piece,213,295,69,22
+ITEM0033,TIRE-0033,Joyroad 185/65R14,TBR,Joyroad,295/80R22.5,91,H,Eligendi quam sint omnis nulla earum.,Piece,416,765,42,12
+ITEM0034,TIRE-0034,Joyroad 295/80R22.5,PCR,Joyroad,295/80R22.5,102,T,Quam perspiciatis quasi nisi voluptas similique ipsum accusantium.,Piece,500,606,83,11
+ITEM0035,TIRE-0035,Joyroad 205/55R16,LTR,Wanli,205/55R16,91,V,Amet beatae fugiat porro omnis dolore voluptatem quibusdam.,Piece,526,548,74,6
+ITEM0036,TIRE-0036,Joyroad 185/65R14,PCR,Wanli,175/70R13,102,V,Sunt officiis vitae consequatur.,Piece,648,220,94,11
+ITEM0037,TIRE-0037,Joyroad 195/65R15,PCR,Joyroad,175/70R13,102,H,Ipsa numquam non officiis officia quidem fugit pariatur.,Piece,545,1105,96,19
+ITEM0038,TIRE-0038,Joyroad 195/65R15,PCR,Wanli,205/55R16,102,H,Ducimus illo fugit modi.,Piece,476,880,39,12
+ITEM0039,TIRE-0039,Joyroad 175/70R13,TBR,Wanli,175/70R13,91,T,Ea hic beatae pariatur dolor ipsa repellat.,Piece,433,1090,48,19
+ITEM0040,TIRE-0040,Wanli 175/70R13,PCR,Wanli,185/65R14,95,T,Sapiente quae esse ipsum cum delectus.,Piece,365,1169,83,16
+ITEM0041,TIRE-0041,Wanli 295/80R22.5,PCR,Wanli,175/70R13,91,H,Ullam illo quasi dolorem rerum maxime totam.,Piece,729,1308,41,13
+ITEM0042,TIRE-0042,Joyroad 195/65R15,TBR,Wanli,195/65R15,91,H,Odio rerum soluta ab.,Piece,769,922,63,18
+ITEM0043,TIRE-0043,Wanli 205/55R16,PCR,Wanli,295/80R22.5,102,V,Nam nam sed cupiditate dolores aliquam.,Piece,728,1040,94,23
+ITEM0044,TIRE-0044,Joyroad 295/80R22.5,PCR,Wanli,295/80R22.5,91,V,Itaque nihil hic numquam culpa.,Piece,757,465,77,19
+ITEM0045,TIRE-0045,Wanli 205/55R16,LTR,Joyroad,175/70R13,102,V,Dolor vero voluptatem error non aliquid.,Piece,118,1000,58,8
+ITEM0046,TIRE-0046,Wanli 295/80R22.5,TBR,Wanli,295/80R22.5,91,T,Id ratione quasi.,Piece,529,445,65,20
+ITEM0047,TIRE-0047,Wanli 295/80R22.5,LTR,Wanli,175/70R13,91,T,Facilis sapiente fugit fuga cumque corrupti consectetur.,Piece,466,456,75,13
+ITEM0048,TIRE-0048,Joyroad 295/80R22.5,TBR,Wanli,205/55R16,95,H,Provident vero adipisci facere omnis.,Piece,172,613,22,21
+ITEM0049,TIRE-0049,Wanli 175/70R13,PCR,Wanli,195/65R15,91,V,Incidunt temporibus dolor quaerat.,Piece,437,748,86,22
+ITEM0050,TIRE-0050,Wanli 185/65R14,TBR,Wanli,185/65R14,95,V,Suscipit nam optio officia.,Piece,678,1234,27,6
+ITEM0051,TIRE-0051,Joyroad 205/55R16,LTR,Joyroad,295/80R22.5,95,V,Culpa alias placeat incidunt totam.,Piece,432,940,27,15
+ITEM0052,TIRE-0052,Wanli 175/70R13,TBR,Wanli,195/65R15,91,H,Facilis voluptatum voluptate dolore aspernatur.,Piece,396,728,28,19
+ITEM0053,TIRE-0053,Wanli 175/70R13,TBR,Joyroad,175/70R13,95,H,Nisi officiis id molestias incidunt tenetur vitae.,Piece,204,215,95,11
+ITEM0054,TIRE-0054,Joyroad 195/65R15,TBR,Wanli,185/65R14,95,V,Voluptatum recusandae ullam reiciendis aliquam tenetur consectetur veniam.,Piece,142,723,66,10
+ITEM0055,TIRE-0055,Wanli 205/55R16,PCR,Wanli,175/70R13,102,H,Ducimus libero ipsum delectus repellat.,Piece,199,1165,45,6
+ITEM0056,TIRE-0056,Joyroad 295/80R22.5,TBR,Wanli,205/55R16,102,T,Unde quam quis sit praesentium cupiditate ea.,Piece,558,227,33,20
+ITEM0057,TIRE-0057,Wanli 195/65R15,TBR,Wanli,195/65R15,102,V,Consequatur excepturi quisquam amet.,Piece,469,852,31,7
+ITEM0058,TIRE-0058,Wanli 175/70R13,TBR,Joyroad,205/55R16,102,H,Porro consequatur soluta recusandae.,Piece,227,1499,67,23
+ITEM0059,TIRE-0059,Joyroad 295/80R22.5,LTR,Joyroad,295/80R22.5,91,H,Iure aut magni ipsa incidunt at facilis sapiente.,Piece,264,898,29,10
+ITEM0060,TIRE-0060,Wanli 195/65R15,TBR,Joyroad,185/65R14,95,V,Repellat atque quam voluptatum numquam nisi perspiciatis.,Piece,710,152,50,11
+ITEM0061,TIRE-0061,Joyroad 175/70R13,TBR,Wanli,295/80R22.5,91,V,Molestiae assumenda quis maiores quibusdam exercitationem deserunt cupiditate.,Piece,762,311,27,24
+ITEM0062,TIRE-0062,Wanli 185/65R14,PCR,Wanli,175/70R13,95,H,Nam quaerat provident sit.,Piece,217,1296,41,21
+ITEM0063,TIRE-0063,Joyroad 185/65R14,PCR,Wanli,185/65R14,91,V,Atque reprehenderit eum facere.,Piece,764,1318,97,11
+ITEM0064,TIRE-0064,Joyroad 175/70R13,LTR,Joyroad,175/70R13,95,H,Eligendi maxime molestiae impedit exercitationem labore impedit.,Piece,284,1319,24,16
+ITEM0065,TIRE-0065,Wanli 185/65R14,LTR,Joyroad,185/65R14,102,V,Voluptatum quisquam dicta odio fugit dolorum.,Piece,588,1000,20,24
+ITEM0066,TIRE-0066,Joyroad 185/65R14,PCR,Wanli,195/65R15,91,T,Quos nemo optio dignissimos illo.,Piece,754,798,88,8
+ITEM0067,TIRE-0067,Wanli 185/65R14,LTR,Joyroad,175/70R13,102,T,Maxime nostrum animi omnis quos similique temporibus.,Piece,418,424,28,18
+ITEM0068,TIRE-0068,Joyroad 205/55R16,PCR,Wanli,195/65R15,102,H,Rem excepturi cumque rem voluptas.,Piece,320,1155,94,6
+ITEM0069,TIRE-0069,Wanli 295/80R22.5,PCR,Wanli,295/80R22.5,91,H,Atque consequuntur quas officia natus.,Piece,577,1433,78,23
+ITEM0070,TIRE-0070,Wanli 195/65R15,LTR,Wanli,195/65R15,102,V,Magni quas fugiat magnam distinctio est consectetur facere.,Piece,795,340,23,9
+ITEM0071,TIRE-0071,Wanli 295/80R22.5,PCR,Joyroad,205/55R16,91,H,Deleniti ipsam ipsa voluptatem animi laborum eum.,Piece,781,1168,48,23
+ITEM0072,TIRE-0072,Wanli 195/65R15,TBR,Wanli,205/55R16,95,V,Nesciunt ab tempora.,Piece,101,286,84,20
+ITEM0073,TIRE-0073,Joyroad 185/65R14,TBR,Wanli,295/80R22.5,95,T,Consequuntur sit suscipit laudantium.,Piece,614,774,98,18
+ITEM0074,TIRE-0074,Wanli 205/55R16,PCR,Wanli,205/55R16,91,V,Neque doloribus ratione.,Piece,416,173,22,10
+ITEM0075,TIRE-0075,Joyroad 185/65R14,PCR,Joyroad,195/65R15,95,V,Deserunt rem blanditiis repellat sint id officia officiis.,Piece,162,755,82,10
+ITEM0076,TIRE-0076,Joyroad 175/70R13,TBR,Joyroad,175/70R13,102,V,Est voluptatem adipisci iste.,Piece,239,1036,42,12
+ITEM0077,TIRE-0077,Wanli 185/65R14,TBR,Wanli,295/80R22.5,95,T,Dolores adipisci repellendus debitis.,Piece,782,362,97,18
+ITEM0078,TIRE-0078,Wanli 195/65R15,PCR,Wanli,185/65R14,102,V,Suscipit odio tenetur et voluptas.,Piece,475,1458,70,18
+ITEM0079,TIRE-0079,Joyroad 185/65R14,LTR,Joyroad,175/70R13,95,V,Sint at culpa provident.,Piece,552,1216,97,19
+ITEM0080,TIRE-0080,Joyroad 295/80R22.5,TBR,Joyroad,175/70R13,91,H,Occaecati porro dolorem quidem praesentium.,Piece,794,1500,45,18
+ITEM0081,TIRE-0081,Wanli 195/65R15,LTR,Joyroad,295/80R22.5,102,H,Excepturi magni vitae dignissimos at esse occaecati temporibus.,Piece,690,952,37,6
+ITEM0082,TIRE-0082,Joyroad 185/65R14,TBR,Wanli,185/65R14,91,T,Ipsam incidunt numquam maxime nesciunt illum quasi.,Piece,185,598,34,23
+ITEM0083,TIRE-0083,Joyroad 185/65R14,TBR,Joyroad,295/80R22.5,95,T,Ipsam omnis debitis dolorem omnis.,Piece,328,373,52,11
+ITEM0084,TIRE-0084,Wanli 185/65R14,TBR,Wanli,295/80R22.5,95,V,Esse quis iure quibusdam modi quis.,Piece,668,591,47,9
+ITEM0085,TIRE-0085,Wanli 175/70R13,PCR,Joyroad,175/70R13,95,H,Repellat molestiae laborum deleniti fugiat dolor eveniet natus.,Piece,660,610,99,21
+ITEM0086,TIRE-0086,Joyroad 205/55R16,LTR,Wanli,195/65R15,102,T,Praesentium ad laboriosam quaerat.,Piece,137,745,89,15
+ITEM0087,TIRE-0087,Wanli 295/80R22.5,TBR,Joyroad,295/80R22.5,95,T,Laboriosam minus illum inventore.,Piece,339,587,58,10
+ITEM0088,TIRE-0088,Joyroad 205/55R16,PCR,Joyroad,295/80R22.5,95,V,Doloribus illo eum amet porro.,Piece,119,999,92,18
+ITEM0089,TIRE-0089,Joyroad 195/65R15,PCR,Wanli,185/65R14,91,T,Excepturi culpa ratione minima voluptate.,Piece,686,356,47,21
+ITEM0090,TIRE-0090,Wanli 195/65R15,LTR,Wanli,205/55R16,102,H,Explicabo velit ad quaerat neque velit aspernatur.,Piece,139,494,61,21
+ITEM0091,TIRE-0091,Wanli 205/55R16,TBR,Wanli,295/80R22.5,95,H,Cupiditate repellat blanditiis beatae quaerat tenetur accusamus exercitationem.,Piece,694,1474,40,14
+ITEM0092,TIRE-0092,Joyroad 175/70R13,TBR,Wanli,185/65R14,95,T,Sequi distinctio sed deserunt cum.,Piece,224,347,29,24
+ITEM0093,TIRE-0093,Joyroad 195/65R15,PCR,Wanli,175/70R13,91,H,Aspernatur accusamus sequi asperiores fugiat.,Piece,449,899,66,10
+ITEM0094,TIRE-0094,Joyroad 205/55R16,TBR,Wanli,175/70R13,102,V,Voluptate voluptatum cumque itaque fuga tenetur reprehenderit.,Piece,783,1472,65,21
+ITEM0095,TIRE-0095,Wanli 295/80R22.5,TBR,Joyroad,295/80R22.5,102,H,Ea unde rerum aspernatur eaque.,Piece,689,809,61,11
+ITEM0096,TIRE-0096,Wanli 295/80R22.5,LTR,Wanli,295/80R22.5,91,V,Aut fugiat odit.,Piece,435,802,42,22
+ITEM0097,TIRE-0097,Wanli 205/55R16,TBR,Joyroad,185/65R14,102,T,Voluptate libero perferendis magni explicabo sint deserunt.,Piece,419,407,71,7
+ITEM0098,TIRE-0098,Wanli 205/55R16,PCR,Joyroad,205/55R16,91,V,In vitae fugit provident provident sunt.,Piece,756,1401,92,24
+ITEM0099,TIRE-0099,Joyroad 185/65R14,PCR,Wanli,195/65R15,102,V,Pariatur impedit quas aliquam quae hic consectetur.,Piece,675,1072,26,6
+ITEM0100,TIRE-0100,Joyroad 295/80R22.5,PCR,Wanli,205/55R16,102,H,Minus nesciunt nemo magni natus alias.,Piece,156,201,59,16

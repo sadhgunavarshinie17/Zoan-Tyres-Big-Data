@@ -1,0 +1,26 @@
+supplier_id,supplier_name,supplier_group,country,contact_person,email,phone,payment_terms,bank_name,bank_account,swift_code,is_active
+SUP001,"Lee, Robinson and Pearson",Manufacturer,Malaysia,Russell Davies-Kelly,eking@example.net,2004495,Net 30,Knight Group,14066538,YWNSGBOO,1
+SUP002,"Smith, Boyd and Jenkins",Manufacturer,China,Albert Martin,pattersonlindsey@example.com,00971580484302,Net 60,"Bradshaw, Norman and Rodriguez",68931956,LFCTGBC3,1
+SUP003,"Lambert, Fritz and Sullivan",Manufacturer,China,Mr Steven Watson,jenna14@example.com,(0191)4960857,Net 60,Davies Ltd,37214983,MPVSGB9Q,1
+SUP004,"Davis, Rodriguez and Munoz",Manufacturer,China,Kevin Martin,wardmarc@example.com,+44(0)161 496 0264,Net 60,James Inc,27501922,QRKKGBN7,1
+SUP005,Thompson LLC,Manufacturer,China,Emily Chavez,annenewman@example.com,996,Net 60,"Brown, Hoover and Little",15323269,TXBIGBEH,1
+SUP006,"Edwards, Rios and King",Manufacturer,Malaysia,Heidi Harris,karl22@example.com,0292018681,Net 30,Alvarado-Hansen,29141009,IWAAGB9N,1
+SUP007,"Bryan, Jones and Morley",Manufacturer,Thailand,Ms Leanne Bradshaw,angelakline@example.net,8002336,Net 60,"Hendricks, Rose and Atkinson",23145704,MBSJGBG0,1
+SUP008,Stewart Inc,Manufacturer,China,Patricia Smith,rickyhunter@example.net,+44(0)117 4960866,Net 30,King PLC,75889151,KGFVGBHJ,1
+SUP009,"Saunders, Little and Jackson",Manufacturer,Malaysia,Pauline Allan-Walker,yhamilton@example.com,020 74960879,Net 60,"Hughes, Cooper and Green",32049982,CEFVGBD0,1
+SUP010,"Vaughn, Newton and Foley",Manufacturer,Thailand,Jamie Blake,hillkimberly@example.net,+44(0)28 9018 0463,Net 60,"Kelly, Clark and Sykes",89973197,CPABGB8L,1
+SUP011,Williams LLC,Manufacturer,Thailand,Mohammad Robinson,jemmawong@example.org,0116 4960834,Net 60,King Ltd,11530697,USLOGBBE,1
+SUP012,Livingston-Castro,Manufacturer,China,Amber Harris,xwallace@example.net,+441632 960676,Net 30,"Green, Roberts and Green",62967567,FKEGGBIV,1
+SUP013,Booth PLC,Manufacturer,China,Damian Gough-Watkins,phillipskatie@example.net,01 296 7595,Net 30,Miller-Gray,80824923,EQKLGBJ3,1
+SUP014,"Turner, Cooper and Hall",Manufacturer,Malaysia,Dr Robin Turner,marie01@example.com,800319,Net 30,Brown LLC,10264747,PRRNGBNU,1
+SUP015,Sutton Ltd,Manufacturer,Thailand,Douglas Harrison,colejacob@example.org,997,Net 30,"Hill, Johnston and Mitchell",41741498,SHOBGB7G,1
+SUP016,Brooks-Davies,Manufacturer,Thailand,Jerry Walker,ybennett@example.net,800209,Net 60,"Simpson, Lucas and Thomas",69460101,AIFAGBYQ,1
+SUP017,Vance Inc,Manufacturer,Thailand,Margaret Williams,uyoung@example.net,+97149393561,Net 60,"Brooks, Mills and Hawkins",13326101,TKBIGB6A,1
+SUP018,Williams-Burton,Manufacturer,China,Gerard Smith,rsmith@example.net,+44(0)121 4960290,Net 60,Hayes Group,58369360,BQTKGBY9,1
+SUP019,Greenwood-Williams,Manufacturer,China,Mandy Ward,vcarr@example.com,0161 496 0573,Net 30,"Stewart, Andrews and Buckley",28766985,HXVQGBT8,1
+SUP020,Gibbs-Taylor,Manufacturer,Thailand,Gabriela Randall,imellor@example.net,+44292018599,Net 60,"Morris, Smith and Johnson",19956209,GTTAGB09,1
+SUP021,Jordan-Robinson,Manufacturer,Thailand,Sally Schofield,jenna02@example.net,8005301,Net 30,Ryan-Rodriguez,70266317,ZTRXGBR3,1
+SUP022,"Clarke, Roberts and Jones",Manufacturer,Malaysia,Jeffery Terry,jeffreymanning@example.net,991,Net 60,"Mcdonald, Stafford and Reeves",27428658,XBQRGB9Q,1
+SUP023,Cameron-Woodward,Manufacturer,Thailand,Tiffany Martinez,deborahmccoy@example.org,00971 50 083 2406,Net 60,Morton-Slater,71493161,QROVGB1U,1
+SUP024,"Freeman, James and Drake",Manufacturer,Malaysia,Jemma Lee-Robinson,dalyirene@example.com,+44(0)191 4960152,Net 60,"Johnson, Jones and Gibbs",19290632,EFMFGB3C,1
+SUP025,Joyce-Cunningham,Manufacturer,Malaysia,Eleanor Wood-Arnold,jemma56@example.net,2005627,Net 60,"Stephens, Lowe and Thomas",14985213,DTBYGBYV,1
